@@ -1,0 +1,9 @@
+/Users/dafnebadillo/tarea2_imagen/build/Qt_6_10_2_for_macOS-Debug/CMakeFiles/tarea2_imagen.dir
+/Users/dafnebadillo/tarea2_imagen/build/Qt_6_10_2_for_macOS-Debug/CMakeFiles/edit_cache.dir
+/Users/dafnebadillo/tarea2_imagen/build/Qt_6_10_2_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
+/Users/dafnebadillo/tarea2_imagen/build/Qt_6_10_2_for_macOS-Debug/CMakeFiles/list_install_components.dir
+/Users/dafnebadillo/tarea2_imagen/build/Qt_6_10_2_for_macOS-Debug/CMakeFiles/install.dir
+/Users/dafnebadillo/tarea2_imagen/build/Qt_6_10_2_for_macOS-Debug/CMakeFiles/install/local.dir
+/Users/dafnebadillo/tarea2_imagen/build/Qt_6_10_2_for_macOS-Debug/CMakeFiles/install/strip.dir
+/Users/dafnebadillo/tarea2_imagen/build/Qt_6_10_2_for_macOS-Debug/CMakeFiles/tarea2_imagen_autogen_timestamp_deps.dir
+/Users/dafnebadillo/tarea2_imagen/build/Qt_6_10_2_for_macOS-Debug/CMakeFiles/tarea2_imagen_autogen.dir
