@@ -1,0 +1,5 @@
+/Users/dafnebadillo/MiProyectoQt/build/CMakeFiles/MiProyectoQt.dir
+/Users/dafnebadillo/MiProyectoQt/build/CMakeFiles/edit_cache.dir
+/Users/dafnebadillo/MiProyectoQt/build/CMakeFiles/rebuild_cache.dir
+/Users/dafnebadillo/MiProyectoQt/build/CMakeFiles/MiProyectoQt_autogen_timestamp_deps.dir
+/Users/dafnebadillo/MiProyectoQt/build/CMakeFiles/MiProyectoQt_autogen.dir
