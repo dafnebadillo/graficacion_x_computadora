@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shaders/raytrace.vert</file>
+        <file>shaders/raytrace.frag</file>
+	<file>models/CornellBox.obj</file>
+    </qresource>
+</RCC>

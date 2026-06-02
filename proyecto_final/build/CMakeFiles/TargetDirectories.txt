@@ -1,0 +1,5 @@
+/Users/dafnebadillo/proyecto_final/build/CMakeFiles/RayTracingShaders.dir
+/Users/dafnebadillo/proyecto_final/build/CMakeFiles/edit_cache.dir
+/Users/dafnebadillo/proyecto_final/build/CMakeFiles/rebuild_cache.dir
+/Users/dafnebadillo/proyecto_final/build/CMakeFiles/RayTracingShaders_autogen_timestamp_deps.dir
+/Users/dafnebadillo/proyecto_final/build/CMakeFiles/RayTracingShaders_autogen.dir
