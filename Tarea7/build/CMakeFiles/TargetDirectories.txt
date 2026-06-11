@@ -1,0 +1,5 @@
+/Users/dafnebadillo/Tarea7/build/CMakeFiles/Tarea7.dir
+/Users/dafnebadillo/Tarea7/build/CMakeFiles/edit_cache.dir
+/Users/dafnebadillo/Tarea7/build/CMakeFiles/rebuild_cache.dir
+/Users/dafnebadillo/Tarea7/build/CMakeFiles/Tarea7_autogen_timestamp_deps.dir
+/Users/dafnebadillo/Tarea7/build/CMakeFiles/Tarea7_autogen.dir

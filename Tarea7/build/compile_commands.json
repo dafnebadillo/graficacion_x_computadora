@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/dafnebadillo/Tarea7/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/Users/dafnebadillo/Tarea7/build/Tarea7_autogen/include -isystem /Users/dafnebadillo/Qt/6.5.3/macos/lib/QtCore.framework/Headers -iframework /Users/dafnebadillo/Qt/6.5.3/macos/lib -isystem /Users/dafnebadillo/Qt/6.5.3/macos/mkspecs/macx-clang -isystem /Users/dafnebadillo/Qt/6.5.3/macos/include -isystem /Users/dafnebadillo/Qt/6.5.3/macos/lib/QtWidgets.framework/Headers -isystem /Users/dafnebadillo/Qt/6.5.3/macos/lib/QtGui.framework/Headers -isystem /Users/dafnebadillo/Qt/6.5.3/macos/lib/QtOpenGLWidgets.framework/Headers -isystem /Users/dafnebadillo/Qt/6.5.3/macos/lib/QtOpenGL.framework/Headers -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=11.0 -o CMakeFiles/Tarea7.dir/Tarea7_autogen/mocs_compilation.cpp.o -c /Users/dafnebadillo/Tarea7/build/Tarea7_autogen/mocs_compilation.cpp",
+  "file": "/Users/dafnebadillo/Tarea7/build/Tarea7_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/Tarea7.dir/Tarea7_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/Users/dafnebadillo/Tarea7/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/Users/dafnebadillo/Tarea7/build/Tarea7_autogen/include -isystem /Users/dafnebadillo/Qt/6.5.3/macos/lib/QtCore.framework/Headers -iframework /Users/dafnebadillo/Qt/6.5.3/macos/lib -isystem /Users/dafnebadillo/Qt/6.5.3/macos/mkspecs/macx-clang -isystem /Users/dafnebadillo/Qt/6.5.3/macos/include -isystem /Users/dafnebadillo/Qt/6.5.3/macos/lib/QtWidgets.framework/Headers -isystem /Users/dafnebadillo/Qt/6.5.3/macos/lib/QtGui.framework/Headers -isystem /Users/dafnebadillo/Qt/6.5.3/macos/lib/QtOpenGLWidgets.framework/Headers -isystem /Users/dafnebadillo/Qt/6.5.3/macos/lib/QtOpenGL.framework/Headers -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=11.0 -o CMakeFiles/Tarea7.dir/main.cpp.o -c /Users/dafnebadillo/Tarea7/main.cpp",
+  "file": "/Users/dafnebadillo/Tarea7/main.cpp",
+  "output": "CMakeFiles/Tarea7.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/dafnebadillo/Tarea7/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/Users/dafnebadillo/Tarea7/build/Tarea7_autogen/include -isystem /Users/dafnebadillo/Qt/6.5.3/macos/lib/QtCore.framework/Headers -iframework /Users/dafnebadillo/Qt/6.5.3/macos/lib -isystem /Users/dafnebadillo/Qt/6.5.3/macos/mkspecs/macx-clang -isystem /Users/dafnebadillo/Qt/6.5.3/macos/include -isystem /Users/dafnebadillo/Qt/6.5.3/macos/lib/QtWidgets.framework/Headers -isystem /Users/dafnebadillo/Qt/6.5.3/macos/lib/QtGui.framework/Headers -isystem /Users/dafnebadillo/Qt/6.5.3/macos/lib/QtOpenGLWidgets.framework/Headers -isystem /Users/dafnebadillo/Qt/6.5.3/macos/lib/QtOpenGL.framework/Headers -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=11.0 -o CMakeFiles/Tarea7.dir/glwindow.cpp.o -c /Users/dafnebadillo/Tarea7/glwindow.cpp",
+  "file": "/Users/dafnebadillo/Tarea7/glwindow.cpp",
+  "output": "CMakeFiles/Tarea7.dir/glwindow.cpp.o"
+},
+{
+  "directory": "/Users/dafnebadillo/Tarea7/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/Users/dafnebadillo/Tarea7/build/Tarea7_autogen/include -isystem /Users/dafnebadillo/Qt/6.5.3/macos/lib/QtCore.framework/Headers -iframework /Users/dafnebadillo/Qt/6.5.3/macos/lib -isystem /Users/dafnebadillo/Qt/6.5.3/macos/mkspecs/macx-clang -isystem /Users/dafnebadillo/Qt/6.5.3/macos/include -isystem /Users/dafnebadillo/Qt/6.5.3/macos/lib/QtWidgets.framework/Headers -isystem /Users/dafnebadillo/Qt/6.5.3/macos/lib/QtGui.framework/Headers -isystem /Users/dafnebadillo/Qt/6.5.3/macos/lib/QtOpenGLWidgets.framework/Headers -isystem /Users/dafnebadillo/Qt/6.5.3/macos/lib/QtOpenGL.framework/Headers -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=11.0 -o CMakeFiles/Tarea7.dir/mesh.cpp.o -c /Users/dafnebadillo/Tarea7/mesh.cpp",
+  "file": "/Users/dafnebadillo/Tarea7/mesh.cpp",
+  "output": "CMakeFiles/Tarea7.dir/mesh.cpp.o"
+}
+]
